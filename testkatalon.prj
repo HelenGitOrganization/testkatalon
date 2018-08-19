@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description></description>
+   <name>testkatalon</name>
+   <tag></tag>
+   <UUID>db48c281-3879-4a2b-99b6-9d6d0ab1c56d</UUID>
+   <migratedVersion>5.4.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+</Project>
